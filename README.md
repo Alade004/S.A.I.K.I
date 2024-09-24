@@ -3,7 +3,7 @@ Socially Artificially Interactive Knowledgeable Interface created with Python
 
 
 # Description 
-This project was created to see if the finite state machine (FSM) can be used to make a chatbot that can copy the mannerisms of a fictional character. 
+This project was created to see if the finite state machine (FSM) can be used to make a chatbot that can copy the mannerisms of a fictional character. Its final product was presented at the Carleton College SLAI symposium in 2022. 
 
 # How to use:
 1. Load glo.py
