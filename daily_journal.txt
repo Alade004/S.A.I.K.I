@@ -1,0 +1,107 @@
+Daily journal. Every day, write a few sentences at the beginning of lab time about what your goals are for the day. Then at the end of lab time, write a few sentences indicating what you were able to accomplish.
+
+
+Friday morning, July 15
+
+GOALS
+- Implement bot's likes and dislikes (conversations)
+- Implement more emotional phrases/messages
+ 
+ACCOMPLISHMENTS
+- Implemented conversation about favorite food
+- Omitted case and punctuation from user input
+
+
+Friday afternoon, July 15
+
+GOALS
+- Implement conversation about hobbies
+
+ACCOMPLISHMENTS
+- Started on trying to implement a while loop in the code 
+
+
+Monday, July 18
+
+GOALS 
+- Implement more conversations 
+- Finish while loop
+
+ACCOMPLISHMENTS
+- Implemented coffee jelly loop
+
+
+Tuesday, July 19
+
+GOALS
+- Adding more loops
+- Implement Global variables
+
+ACCOMPLISHMENTS
+- Added another conversation (hobbies)
+
+
+Wednesday, July 20
+
+GOALS
+- Implement finite state machine 
+
+ACCOMPLISHMENTS
+- Implement fsm for food conversation
+
+
+Thursday, July 21
+
+GOALS
+- Fix generalchat
+- Implement more conversations into fsm
+
+ACCOMPLISHMENTS
+- Finished fsm
+- Finished conversations we wanted to add
+
+
+Friday, July 22
+
+GOALS
+- Work on poster
+
+
+ACCOMPLISHMENTS
+-
+
+
+Monday, July 25
+
+GOALS
+-
+
+ACCOMPLISHMENTS
+-
+
+
+Tuesday, July 26
+
+GOALS
+-
+
+ACCOMPLISHMENTS
+-
+
+
+Wednesday, July 27
+
+GOALS
+-
+
+ACCOMPLISHMENTS
+-
+
+
+Thursday, July 28
+
+GOALS
+-
+
+ACCOMPLISHMENTS
+-
